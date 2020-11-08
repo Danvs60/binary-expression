@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Evaluable
+comment0.text=\r\n\ The\ evaluable\ interface.\r\n\r\n\ @author\ Daniel\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=int\ eval()
+numComments=2

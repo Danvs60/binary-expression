@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=INTEGER
+comment1.params=value
+comment1.target=INTEGER(int)
+comment2.params=
+comment2.target=int\ eval()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

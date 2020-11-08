@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Variable
+comment0.text=\r\n\ Variable\ class.\r\n\r\n\ @author\ Daniel\r\n\ @version\ 1.0\r\n
+comment1.params=name
+comment1.target=Variable(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ eval()
+numComments=4
